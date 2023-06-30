@@ -371,6 +371,7 @@ flex-wrap: wrap;
   .about{
     grid-template-columns: 1fr;
     text-align: center;
+    justify-content: center;
   }
   .about-img{
     order: 2;
